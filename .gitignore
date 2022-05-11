@@ -1,0 +1,14 @@
+.vscode
+wp-admin/
+wp-includes/
+/*.php
+license.txt
+readme.html
+.htaccess
+wp-content/index.php
+wp-content/languages
+wp-content/themes
+wp-content/uploads
+wp-content/plugins/index.php
+wp-content/plugins/hello.php
+wp-content/plugins/akismet
